@@ -8,7 +8,6 @@ import math
 import mpl_toolkits.axisartist as axisartist
 import seaborn as sns
 import pandas as pd
-import statsmodels.formula.api as sm
 from matplotlib.ticker import MultipleLocator
 
 

@@ -1,0 +1,16 @@
+Input File ARES...
+Input Parameters:
+
+specfits: ././CD-2312010_ESPRESSO_2024.fits
+readlinedat: cdo.dat
+fileout: aresout.dat
+lambdai: 3000.0
+lambdaf: 8000.0
+smoothder: 14.0
+space: 3.00 
+rejt: 3;5764,5766,6047,6052,6068,6076
+
+lineresol: 0.100
+miniline: 2.0
+plots_flag: 0
+rvmask: 3,6021.8,6024.06,6027.06,6024.06,20
